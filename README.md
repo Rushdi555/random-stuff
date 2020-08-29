@@ -1,3 +1,3 @@
 # random-stuff
 
-some challanges i solved while learning 
+some challanges I solved while learning 
